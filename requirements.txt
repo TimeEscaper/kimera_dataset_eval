@@ -1,0 +1,7 @@
+numpy
+pyyaml
+open3d-python
+plotly
+pandas
+scipy
+
