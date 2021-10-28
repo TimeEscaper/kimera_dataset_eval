@@ -35,5 +35,6 @@ docker run --rm -it \
     --privileged \
     --ipc=host \
     --network host \
-    kimera_vio
-
+    -v $1:/root/exchange \
+    kimera_vio \
+    bash
